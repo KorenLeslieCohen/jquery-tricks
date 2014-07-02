@@ -1,0 +1,1 @@
+jQuery tricks I've built into my websites.
